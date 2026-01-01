@@ -4,4 +4,6 @@ I hold a **BSc in Physics** from **[Universitat Autònoma de Barcelona](https://
 
 Focused on AI development, one bug at a time 😉.
 
-I'm mostly interested in **Graph Theory** and **Graph Neural Networks** research.
+I'm mostly interested in the following topics:
+* **Graph Theory**
+* **Graph Neural Networks**
